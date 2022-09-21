@@ -1,7 +1,7 @@
 const Events = (props) => {
 
     async function fetchEvents(){
-        let url = 
+        
     }
 
 
@@ -12,4 +12,4 @@ const Events = (props) => {
      );
 }
  
-export default Restaurant;
+export default Events;
