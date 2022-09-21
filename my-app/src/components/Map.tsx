@@ -1,7 +1,7 @@
-const Map = (props) => {
+const Map = () => {
     return ( 
     <>
-    <h1> Hello from Maps</h1>
+    <h1>Hello from Map!</h1>
     </> );
 }
  
