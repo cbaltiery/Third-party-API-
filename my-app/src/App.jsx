@@ -1,14 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
 import Weather from './components/Weather';
-import Restaurant from './components/Restaurant';
+import Events from './components/Events';
 import Map from './components/Map';
 
 function App() {
   return (
 <>
 <Weather/>
-<Restaurant/>
+<Events/>
 <Map/>
 </>
   );
