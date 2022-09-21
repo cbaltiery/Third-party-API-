@@ -1,4 +1,3 @@
-import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Weather from './components/Weather';
@@ -7,11 +6,11 @@ import Map from './components/Map';
 
 function App() {
   return (
-    <div>
-      <Weather/>
-      <Restaurant/>
-      <Map/>
-    </div>
+<>
+<Weather/>
+<Restaurant/>
+<Map/>
+</>
   );
 }
 
